@@ -1,3 +1,7 @@
+# Name: Dharyl Duclisen
+# Course: BSIT - 2
+# Filename: animal.py
+
 class Person:
     def setName(self, name):
         self.name = name
