@@ -1,5 +1,6 @@
-# Dharyl Duclisen
-# BSIT - 2
+# Name: Dharyl Duclisen
+# Course: BSIT - 2
+# Filename: person.py
 
 class Animal:
     def makesound(self):
